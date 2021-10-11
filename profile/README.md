@@ -1,5 +1,5 @@
 <div align="center">
 
-  ![AwesomeBlazor](./img/logo.svg)
+  ![AwesomeBlazor](./profile/img/logo.svg)
 
 </div>
